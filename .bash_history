@@ -127,3 +127,21 @@ git config --global user.email "A01027318@itesm.mx"
 git config --global user.name "EnriqueOA"
 git commit -m "exportar todos los archivos encriptados"
 git push origin master
+ls
+git status
+git add -A
+git commit -m "un mensaje"
+ls
+git status
+git push origin master
+git push origin master
+git push origin master
+git push origin master
+git pull origin master
+git push origin master
+vim tarea.txt
+git add -A
+git status
+git commit -m "un mensaje"
+ls
+exit 
