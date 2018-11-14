@@ -9,6 +9,10 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+:q
+:w
+:ww
+:qw
 
 # Search String History (newest to oldest):
 
@@ -30,14 +34,39 @@
 	twq
 
 # File marks:
-'0  4  0  ~/tarea.txt
-'1  1  0  ~/tarea.txt
+'0  8  0  ~/archivoEnRama1.txt
+'1  221  8  ~/milog.txt
+'2  4  0  ~/tarea.txt
+'3  1  0  ~/tarea.txt
 
 # Jumplist (newest first):
+-'  8  0  ~/archivoEnRama1.txt
+-'  1  0  ~/archivoEnRama1.txt
+-'  221  8  ~/milog.txt
+-'  1  0  ~/milog.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  221  8  ~/milog.txt
+-'  1  0  ~/milog.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
 -'  4  0  ~/tarea.txt
 -'  1  0  ~/tarea.txt
 
 # History of marks within files (newest to oldest):
+
+> ~/archivoEnRama1.txt
+	"	8	0
+	^	8	0
+	.	8	0
+	+	8	0
+
+> ~/milog.txt
+	"	221	8
+	.	221	0
+	+	221	0
 
 > ~/tarea.txt
 	"	4	0
