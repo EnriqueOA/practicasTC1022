@@ -30,13 +30,45 @@
 	twq
 
 # File marks:
-'0  3  87  ~/CodigoEticaReglamento/Descripcion.txt
-'1  4  0  ~/Descripcion.txt
-'2  20  0  ~/archivoEnRamaMaster.txt
-'3  4  0  ~/tarea.txt
-'4  1  0  ~/tarea.txt
+'0  1  4  ~/DescripcionEncrip.txt
+'1  3  87  ~/CodigoEticaReglamento/Descripcion.txt
+'2  4  0  ~/Descripcion.txt
+'3  20  0  ~/archivoEnRamaMaster.txt
+'4  4  0  ~/tarea.txt
+'5  1  0  ~/tarea.txt
 
 # Jumplist (newest first):
+-'  1  4  ~/DescripcionEncrip.txt
+-'  3  87  ~/CodigoEticaReglamento/Descripcion.txt
+-'  1  0  ~/CodigoEticaReglamento/Descripcion.txt
+-'  4  0  ~/Descripcion.txt
+-'  1  0  ~/Descripcion.txt
+-'  20  0  ~/archivoEnRamaMaster.txt
+-'  1  0  ~/archivoEnRamaMaster.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  20  0  ~/archivoEnRamaMaster.txt
+-'  1  0  ~/archivoEnRamaMaster.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  4  0  ~/Descripcion.txt
+-'  1  0  ~/Descripcion.txt
+-'  20  0  ~/archivoEnRamaMaster.txt
+-'  1  0  ~/archivoEnRamaMaster.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  20  0  ~/archivoEnRamaMaster.txt
+-'  1  0  ~/archivoEnRamaMaster.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
 -'  3  87  ~/CodigoEticaReglamento/Descripcion.txt
 -'  1  0  ~/CodigoEticaReglamento/Descripcion.txt
 -'  4  0  ~/Descripcion.txt
@@ -69,6 +101,12 @@
 -'  1  0  ~/tarea.txt
 
 # History of marks within files (newest to oldest):
+
+> ~/DescripcionEncrip.txt
+	"	1	4
+	^	1	5
+	.	2	0
+	+	2	0
 
 > ~/CodigoEticaReglamento/Descripcion.txt
 	"	3	87
