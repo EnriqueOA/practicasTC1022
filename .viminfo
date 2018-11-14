@@ -34,12 +34,15 @@
 	twq
 
 # File marks:
-'0  8  0  ~/archivoEnRama1.txt
-'1  221  8  ~/milog.txt
-'2  4  0  ~/tarea.txt
-'3  1  0  ~/tarea.txt
+'0  7  0  ~/archivoEnRama2.txt
+'1  8  0  ~/archivoEnRama1.txt
+'2  221  8  ~/milog.txt
+'3  4  0  ~/tarea.txt
+'4  1  0  ~/tarea.txt
 
 # Jumplist (newest first):
+-'  7  0  ~/archivoEnRama2.txt
+-'  1  0  ~/archivoEnRama2.txt
 -'  8  0  ~/archivoEnRama1.txt
 -'  1  0  ~/archivoEnRama1.txt
 -'  221  8  ~/milog.txt
@@ -54,8 +57,52 @@
 -'  1  0  ~/tarea.txt
 -'  4  0  ~/tarea.txt
 -'  1  0  ~/tarea.txt
+-'  221  8  ~/milog.txt
+-'  1  0  ~/milog.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  221  8  ~/milog.txt
+-'  1  0  ~/milog.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  8  0  ~/archivoEnRama1.txt
+-'  1  0  ~/archivoEnRama1.txt
+-'  221  8  ~/milog.txt
+-'  1  0  ~/milog.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  221  8  ~/milog.txt
+-'  1  0  ~/milog.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  221  8  ~/milog.txt
+-'  1  0  ~/milog.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  221  8  ~/milog.txt
+-'  1  0  ~/milog.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
 
 # History of marks within files (newest to oldest):
+
+> ~/archivoEnRama2.txt
+	"	7	0
+	^	7	0
+	.	6	64
+	+	6	64
 
 > ~/archivoEnRama1.txt
 	"	8	0
