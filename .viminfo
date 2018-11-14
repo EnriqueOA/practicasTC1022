@@ -30,14 +30,25 @@
 	twq
 
 # File marks:
-'0  4  0  ~/tarea.txt
-'1  1  0  ~/tarea.txt
+'0  20  0  ~/archivoEnRamaMaster.txt
+'1  4  0  ~/tarea.txt
+'2  1  0  ~/tarea.txt
 
 # Jumplist (newest first):
+-'  20  0  ~/archivoEnRamaMaster.txt
+-'  1  0  ~/archivoEnRamaMaster.txt
+-'  4  0  ~/tarea.txt
+-'  1  0  ~/tarea.txt
 -'  4  0  ~/tarea.txt
 -'  1  0  ~/tarea.txt
 
 # History of marks within files (newest to oldest):
+
+> ~/archivoEnRamaMaster.txt
+	"	20	0
+	^	20	0
+	.	19	32
+	+	19	32
 
 > ~/tarea.txt
 	"	4	0
